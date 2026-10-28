@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-510-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-511-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -43,7 +43,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 
 - [Official and Reference Servers](#official-and-reference) (11)
 - [Databases and Storage](#databases-and-storage) (17)
-- [Developer Tools and Code Intelligence](#developer-tools-and-code-intelligence) (57)
+- [Developer Tools and Code Intelligence](#developer-tools-and-code-intelligence) (58)
 - [Browsers, Search, and Web Automation](#browsers-search-and-web-automation) (51)
 - [Filesystems and Documents](#filesystems-and-documents) (19)
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (26)
@@ -185,6 +185,8 @@ Repositories, CI/CD, observability, and coding workflows for software teams.
   `localization` `translation` `i18n` `developer-tools`
 - **[ipvolt Proxy Toolkit](https://github.com/ipvolt/proxy-toolkit-mcp)** `Official` `TypeScript` — Search reviewed proxy guides, generate tested proxy configuration templates for curl, Requests, HTTPX and Playwright, and diagnose proxy errors such as a 407 on CONNECT or a TLS failure.  
   `proxy` `networking` `troubleshooting` `remote`
+- **[Iris Code](https://www.iriscode.co/mcp)** `Official` `TypeScript` — Local code-quality rules, findings, preview-first safe fixes, refactor verification and gate results for coding agents.  
+  `code-quality` `static-analysis` `refactoring` `security` `local`
 - **[Kleap](https://github.com/kleaphq/cli)** `Official` `JavaScript` — Create, edit, and publish websites from AI clients through a hosted MCP server.  
   `websites` `publishing` `cli` `agents`
 - **[Kubernetes MCP Server](https://github.com/Flux159/mcp-server-kubernetes)** `TypeScript` — Operate Kubernetes clusters with kubectl-style MCP tools.  

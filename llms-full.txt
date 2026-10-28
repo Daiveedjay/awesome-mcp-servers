@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 510 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 511 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -632,6 +632,17 @@ Search reviewed proxy guides, generate tested proxy configuration templates for 
 - Tags: proxy, networking, troubleshooting, remote
 - Category: Developer Tools and Code Intelligence
 - Streamable HTTP endpoint: https://mcp.ipvolt.com/mcp
+
+### Iris Code
+
+Local code-quality rules, findings, preview-first safe fixes, refactor verification and gate results for coding agents.
+
+- URL: https://www.iriscode.co/mcp
+- Language: TypeScript
+- Provider: Iris Code
+- Official: yes
+- Tags: code-quality, static-analysis, refactoring, security, local
+- Category: Developer Tools and Code Intelligence
 
 ### Kleap
 

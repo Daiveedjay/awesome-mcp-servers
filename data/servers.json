@@ -4516,6 +4516,22 @@
     }
   },
   {
+    "name": "Iris Code",
+    "url": "https://www.iriscode.co/mcp",
+    "description": "Local code-quality rules, findings, preview-first safe fixes, refactor verification and gate results for coding agents.",
+    "category": "developer-tools-and-code-intelligence",
+    "language": "TypeScript",
+    "provider": "Iris Code",
+    "tags": [
+      "code-quality",
+      "static-analysis",
+      "refactoring",
+      "security",
+      "local"
+    ],
+    "official": true
+  },
+  {
     "name": "AgentSandboxes",
     "url": "https://agentsandboxes.fyi",
     "description": "Search an index of cloud sandbox providers for AI agents: isolation, cold start, persistence, GPU support and pricing, each fact linked to its source.",
